@@ -5,7 +5,7 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 
 ----------
 
-### First algorithm - Instruction
+### The First Algorithm
 
 *1. Draw a great square in the center of your sheet of paper.*
 *2. devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
@@ -19,7 +19,7 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 
 ----------
 
-### Second algorithm - Instruction
+### The Second Algorithm
 
 *Draw leaf-like forms (ovals that thin to the tails).*
 *1. crisscross, in different sizes, as close as possible whilst still not touching!*
