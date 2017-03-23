@@ -1,10 +1,10 @@
-#This is not a Leaf - Creating an Algorithm
+# This is not a Leaf - Creating an Algorithm
 
 To understand how algorithms work, it’s best to create one yourself. This way you get to figure out essential components: you discover what stays constant and what is variable, you understand which elements you need to change or even eliminate to get different results - to get as close to your desired outcome as possible.
 
 ----------
 
-###First algorithm - Instruction
+### First algorithm - Instruction
 
 *1. Draw a great square in the center of your sheet of paper.*
 *2. devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
@@ -18,7 +18,7 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 
 ----------
 
-###Second algorithm - Instruction
+### Second algorithm - Instruction
 
 *Draw leaf-like forms (ovals that thin to the tails).*
 *1. crisscross, in different sizes, as close as possible whilst still not touching!*
@@ -62,7 +62,7 @@ The revised algorithm now looks like this:
 
 Since the algorithm is nearly unambiguous now that we have eliminated some variables and rephrased the instruction more detailed, it’s time mess around with the constants!
 
-###Changing Constants
+### Changing Constants
 
 How about changing the leaf-like shapes to clouds, hearts and stars?
 
