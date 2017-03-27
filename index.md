@@ -9,13 +9,9 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 ### The First Algorithm
 
 1. Draw a great square in the center of your sheet of paper.
-
-1. devide this square into four equally sized, smaller squares using one horizontal and one vertical line.
-
+1. devide this square into four equally sized, smaller squares using one horizontal and one vertical line
 1. Write down one word in each square. (verb, noun or adjective)
-
 1. Draw your associations concerning those words outside around the big square.
-
 1. Sign your creation.
 
 ---------
@@ -26,13 +22,11 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 
 ### The Second Algorithm
 
-*Draw leaf-like forms (ovals that thin to the tails).*
+  *Draw leaf-like forms (ovals that thin to the tails).*
 
-*1. crisscross, in different sizes, as close as possible whilst still not touching!*
-
-*2. fill some of them with hatchures, others with tiny dots and leave others empty*
-
-*You do not have to fill the entire sheet!*
+1. crisscross, in different sizes, as close as possible whilst still not touching!
+1. fill some of them with hatchures, others with tiny dots and leave others empty.
+  You do not have to fill the entire sheet!
 
 In this case, the only constant is the shape oft he objects. Variables are the sheet format, the colour oft he chosen pencil, the number of drawed shapes, their exact location on the sheet, their exact size and, conditionally, the filling of each shape. As you will learn, to get your algorithm to be unmistakable it should be the other way around: the constants should predominate, the variables should be fewer and more precise:
 
