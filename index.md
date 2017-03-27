@@ -97,6 +97,3 @@ Yassss!
 This has been a journy through creating a flawed algorithm and analyzing, changing and defining it until it’s become faultless. It took a lot of time to get to really understand its functionality but in the end this knowledge could be used like a creative weapon.
 In the end there was SUCCESS!
 
-#. Hallo.
-#. Hallo.
-#. Hallo.
