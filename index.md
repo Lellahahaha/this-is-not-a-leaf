@@ -1,3 +1,4 @@
+
 # This is not a Leaf
 ## Creating an Algorithm
 
@@ -25,7 +26,9 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 *Draw leaf-like forms (ovals that thin to the tails).*
 
 1. *Crisscross, in different sizes, as close as possible whilst still not touching!*
+
 1. *Fill some of them with hatchures, others with tiny dots and leave others empty.*
+
 *You do not have to fill the entire sheet!*
 
 In this case, the only constant is the shape oft he objects. Variables are the sheet format, the colour oft he chosen pencil, the number of drawed shapes, their exact location on the sheet, their exact size and, conditionally, the filling of each shape. As you will learn, to get your algorithm to be unmistakable it should be the other way around: the constants should predominate, the variables should be fewer and more precise:
