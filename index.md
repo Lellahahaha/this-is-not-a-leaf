@@ -8,11 +8,11 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 
 ### The First Algorithm
 
-*1. Draw a great square in the center of your sheet of paper.*
-*2. devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
-*3. Write down one word in each square. (verb, noun or adjective)*
-*4. Draw your associations concerning those words outside around the big square.*
-*5. Sign your creation.*
+*#. Draw a great square in the center of your sheet of paper.*
+*#. devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
+*#. Write down one word in each square. (verb, noun or adjective)*
+*#. Draw your associations concerning those words outside around the big square.*
+*#. Sign your creation.*
 
 ---------
 
