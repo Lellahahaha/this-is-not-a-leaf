@@ -8,11 +8,11 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 
 ### The First Algorithm
 
-1. Draw a great square in the center of your sheet of paper.
-1. devide this square into four equally sized, smaller squares using one horizontal and one vertical line
-1. Write down one word in each square. (verb, noun or adjective)
-1. Draw your associations concerning those words outside around the big square.
-1. Sign your creation.
+1. *Draw a great square in the center of your sheet of paper.*
+1. *Devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
+1. *Write down one word in each square. (verb, noun or adjective)*
+1. *Draw your associations concerning those words outside around the big square.*
+1. *Sign your creation.*
 
 ---------
 
@@ -24,8 +24,8 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 
 *Draw leaf-like forms (ovals that thin to the tails).*
 
-1. *crisscross, in different sizes, as close as possible whilst still not touching!*
-1. fill some of them with hatchures, others with tiny dots and leave others empty.
+1. *Crisscross, in different sizes, as close as possible whilst still not touching!*
+1. *Fill some of them with hatchures, others with tiny dots and leave others empty.*
 *You do not have to fill the entire sheet!*
 
 In this case, the only constant is the shape oft he objects. Variables are the sheet format, the colour oft he chosen pencil, the number of drawed shapes, their exact location on the sheet, their exact size and, conditionally, the filling of each shape. As you will learn, to get your algorithm to be unmistakable it should be the other way around: the constants should predominate, the variables should be fewer and more precise:
@@ -49,7 +49,7 @@ Now, the subjects do not focus on the shapes not touching but rather on them bei
 
 
 
-.Also, the filling of the shapes has often been neither dotted, nor hatched, nor let empty. But in this case it’s important to focus on what you want as outcome. Do you really want the results to be all the same?
+Also, the filling of the shapes has often been neither dotted, nor hatched, nor let empty. But in this case it’s important to focus on what you want as outcome. Do you really want the results to be all the same?
 Nah.
 So the second point has to be changed:
 
