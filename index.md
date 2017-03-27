@@ -58,6 +58,9 @@ This way you get a wider range of possible correct outcomes while increasing the
 
 ----------
 
+### The Revised Second Algorithm
+
+
 The revised algorithm now looks like this:
 
 *Draw ovals that thin to the tails. crisscross, in different sizes, almost touching. Fill some of them with lines or dots and leave others empty.*
