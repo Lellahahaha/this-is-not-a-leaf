@@ -55,7 +55,7 @@ Now, the subjects do not focus on the shapes not touching but rather on them bei
 
 
 
-Also, the filling of the shapes has often been neither dotted, nor hatched, nor let empty. But in this case it’s important to focus on what you want as outcome. Do you really want the results to be all the same?
+.Also, the filling of the shapes has often been neither dotted, nor hatched, nor let empty. But in this case it’s important to focus on what you want as outcome. Do you really want the results to be all the same?
 Nah.
 So the second point has to be changed:
 
@@ -97,6 +97,6 @@ Yassss!
 This has been a journy through creating a flawed algorithm and analyzing, changing and defining it until it’s become faultless. It took a lot of time to get to really understand its functionality but in the end this knowledge could be used like a creative weapon.
 In the end there was SUCCESS!
 
-#. hallo
-#. hallo
-#. hallo
+#. Hallo.
+#. Hallo.
+#. Hallo.
